@@ -718,7 +718,6 @@ nav ul li a:hover {
     text-align: center;
     background: linear-gradient(to bottom, #e0e0e0, #d4c7b0);
     position: relative;
-    min-height: 500px; /* Ensure it has enough space */
     z-index: 20;
     top: 930px;
 }
