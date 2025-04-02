@@ -199,7 +199,7 @@ nav ul li a:hover {
 }
 
 /* 🔹 Responsive Adjustments */
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
     .about {
         flex-direction: column;
         justify-content: center;
@@ -224,6 +224,7 @@ nav ul li a:hover {
 
     .ele2 video {
         width: 100%;
+	bottom: 60px;
     }
 }
 
