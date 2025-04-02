@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", function () {
         item.innerHTML = `
             <div class="product-content">
                 <div class="image-container">
-                    <img src="${product.image}" alt="${product.name}" class="product-image">
+                    <img src="${product.image}" alt="${product.name}" class="product-image" alt="our lentil products">
                     <div class="brand-name">${product.brand}</div>
                 </div>
                 <div class="product-info">
