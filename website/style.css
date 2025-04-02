@@ -220,6 +220,7 @@ nav ul li a:hover {
     .offerings {
         max-width: 100%;
         text-align: left;
+	top: 200px;
     }
 
     .ele2 video {
