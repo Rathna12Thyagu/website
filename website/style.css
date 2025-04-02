@@ -712,14 +712,14 @@ nav ul li a:hover {
 
 /* 🟢 Process Chain Styling */
 .process-chain {
-    display: block !important; /* Ensure visibility */
     width: 100%;
     padding: 80px 20px;
     text-align: center;
     background: linear-gradient(to bottom, #e0e0e0, #d4c7b0);
+	top: 100vh;
     position: relative;
+	overflow: hidden;
     z-index: 20;
-    top: 1000px;
 }
 
 /* 🟢 Section Title */
