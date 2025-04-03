@@ -3,23 +3,23 @@ document.addEventListener("DOMContentLoaded", function () {
         { 
             image: "./templates/red_whole.jpg", 
             name: "Red Lentil", 
-            description: "It is known for their reddish-orange color and are often processed into a split form." ,
-			description2:"It comes in both whole and split.",
+            description: "We import or buy best quality raw material from local and process it.",
+	    description2:"It comes in both whole and split.",
             brand: "Brand A", 
             bg: "bg.webp" 
         },
         { 
             image: "./templates/yellow_whole.jpg", 
             name: "Green Lentil", 
-            description: "A common variety of lentil which is good in taste,texture and nutrition values.", 
-			description2:"It comes in both whole and split.",
+            description: "We import or buy best quality raw material from local and process it.",
+	    description2:"It comes in both whole and split.",
             brand: "Brand C", 
             bg: "bg.webp"  
         },
         { 
             image: "./templates/green.jpeg", 
             name: "Green Gram", 
-            description: "Green gram, also known as mung bean, is a versatile grain legume rich in protein and fiber.", 
+            description: "We import or buy best quality raw material from local and process it.",
 			description2:"",
             brand: "Brand E", 
             bg:"bg.webp" 
@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
 		{ 
             image: "./templates/black.webp", 
             name: "Urad", 
-            description: "Urad dal, also known as black gram, with white interior and black skin when whole.", 
+            description: "We import or buy best quality raw material from local and process it.",
 			description2:"It comes in both whole and split.",
             brand: "Brand E", 
             bg:"bg.webp" 
@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
 		{ 
             image: "./templates/chana.webp", 
             name: "Bengal Gram", 
-            description: "Bengal gram, also known as chickpea, it's a major source of protein and a staple food", 
+            description: "We import or buy best quality raw material from local and process it.", 
 			description2:"",
             brand: "Brand E", 
             bg: "bg.webp" 
@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
 		{ 
             image: "./templates/peas.webp", 
             name: "Peas", 
-            description: "Yellow peas, a type of legume known for their flavour and high protein content.", 
+            description: "We import or buy best quality raw material from local and process it.", 
 			description2:"",
             brand: "Brand E", 
             bg: "bg.webp"  
